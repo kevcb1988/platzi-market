@@ -1,0 +1,25 @@
+/* font-family: 'Roboto', sans-serif;
+font-family: 'Open Sans', sans-serif; */
+
+.navbar{
+    box-shadow: none;
+}
+
+.navbar.navbar-icon .navbar-toggler-icon {
+    color: #fff;
+background-image: url('https://mdbootstrap.com/img/svg/hamburger4.svg?color=fff');
+}
+
+.sesion-usuario{
+    background-color: #2BBBAD;
+    color: #fff;
+}
+
+.menu-principal{
+    background-color: #ffbb33;
+}
+
+.menu-principal .nav-link{
+    color: #fff;
+}
+
